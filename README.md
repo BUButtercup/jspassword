@@ -1,5 +1,7 @@
 # wk2-jspasscode
 
+this is the second repos for this project. Previous commits can be found here: https://github.com/BUButtercup/wk2-jspasscode. Repos was recreated to deploy functional site.
+
 In this repos we will be creating a simple javascript password generator. The HTML and CSS are pre-built.
 
 This project was quite challenging for me. I suppose it is challenging any time you're asked to write a paper in a foreign language for the first time. It helped me to understand how the language talks to itself: I still don't think I totally get it, but it works, darn it. I didn't try to use anything more complicated than functions, a loop or two, and some conditional statements this time, but there's always the next one.
